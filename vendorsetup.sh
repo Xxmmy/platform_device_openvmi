@@ -1,6 +1,6 @@
 add_lunch_combo openvmi_armv7a_neon-userdebug
 add_lunch_combo openvmi_armv7a_neon-user
-add_lunch_combo openvmi_arm64_userdebug
-add_lunch_combo openvmi_arm64_user
-add_lunch_combo openvmi_x86_64_userdebug
-add_lunch_combo openvmi_x86_64_user
+add_lunch_combo openvmi_arm64-userdebug
+add_lunch_combo openvmi_arm64-user
+add_lunch_combo openvmi_x86_64-userdebug
+add_lunch_combo openvmi_x86_64-user
